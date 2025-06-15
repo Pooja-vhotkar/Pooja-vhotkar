@@ -32,7 +32,7 @@ Power BI dashboard visualizing the full sales funnel, team performance, and acti
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/pooja-vhotkar-47410b2b0)
+- 🔗 www.linkedin.com/in/pooja-vhotkar-47410b2b0
 - ✉️ Email: poojaingale201998@gmail.com
 
 ---
